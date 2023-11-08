@@ -1,0 +1,21 @@
+
+* 
+{
+
+  font-family: 'Josefin Sans', sans-serif;
+  font-family: 'Red Hat Display', sans-serif;
+  }
+  
+  body {
+    background-color: #181818
+  }
+  
+  a {
+    text-decoration: none;
+    color: 	#C1E1C1;
+    transition: 0.5s;
+  }
+  
+  a:hover {
+    color: 	#96b496;
+  }
